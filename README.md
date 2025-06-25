@@ -7,22 +7,22 @@ Simulador completo de CPU x86-64 implementado em Assembly (NASM) e C, com suport
 ✅ **PROJETO FINALIZADO COM SUCESSO COMPLETO**
 
 ## 📁 Arquivos Principais
-- `cpu_Atual_fixed.asm` - Implementação principal do simulador em Assembly
-- `Cpu_Atual.c` - Interface C e carregamento de programas
-- `programa.txt` - Arquivo de programa exemplo
+- `cpu_simulator_x86_64.asm` - Implementação principal do simulador em Assembly
+- `cpu_simulator_interface.c` - Interface C e carregamento de programas
+- `example_program.txt` - Arquivo de programa exemplo
 - `README.md` - Documentação do projeto
 
 ## 🔧 Compilação e Execução
 
 ```bash
 # Compilar o assembly
-nasm -f win64 cpu_Atual_fixed.asm -o cpu_Atual_fixed.o
+nasm -f win64 cpu_simulator_x86_64.asm -o cpu_simulator_x86_64.o
 
 # Linkar com o código C
-gcc -o CPU Cpu_Atual.c cpu_Atual_fixed.o
+gcc -o CPU cpu_simulator_interface.c cpu_simulator_x86_64.o
 
 # Executar com programa
-./CPU programa.txt
+./CPU example_program.txt
 ```
 
 ## 🚀 Funcionalidades Implementadas
