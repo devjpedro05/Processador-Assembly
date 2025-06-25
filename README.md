@@ -96,8 +96,24 @@ Todos os testes foram executados com sucesso:
 - ✅ Controle de fluxo e flags adequados
 - ✅ Arquitetura robusta e confiável
 
-## 👨‍💻 Desenvolvido por
-**bjoao** - Junho 2025
+## 👨‍💻 Autores e Desenvolvedores
+
+**Diógenes Varelo Correia** - Diih062 (@Git)  
+**João Pedro Barros** - devjpedro05 (@Git) | dev.jpedro (@Instagram)  
+
+Engenharia de Computação - PUC-GO  
+4° Período - Disciplina: Arquitetura e Organização de Computadores  
+
+## 🎓 Contexto Acadêmico
+Este projeto foi desenvolvido como trabalho acadêmico para a disciplina de **Arquitetura e Organização de Computadores** do curso de **Engenharia de Computação** da **Pontifícia Universidade Católica de Goiás (PUC-GO)**, 4° período.
+
+**Objetivo**: Implementar um simulador completo de CPU x86-64 em Assembly, demonstrando conhecimentos práticos sobre:
+- Arquitetura de processadores
+- Linguagem Assembly (NASM)
+- Organização de registradores
+- Operações aritméticas e lógicas
+- Gerenciamento de memória
+- Controle de fluxo de execução
 
 ---
 **Status**: ✅ PROJETO CONCLUÍDO COM SUCESSO TOTAL
