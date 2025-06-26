@@ -99,7 +99,7 @@ Todos os testes foram executados com sucesso:
 ## 👨‍💻 Autores e Desenvolvedores
 
 **Diógenes Varelo Correia** - Diih062 (@Git)  
-**João Pedro Barros** - devjpedro05 (@Git) | dev.jpedro (@Instagram)  
+**João Pedro Barros** - devjpedro05 (@Git) | [@dev.jpedro](https://www.instagram.com/dev.jpedro?igsh=MTJrM3YyZnFjNjByNQ==)(@Instagram)  
 
 Engenharia de Computação - PUC-GO  
 4° Período - Disciplina: Arquitetura e Organização de Computadores  
