@@ -229,7 +229,6 @@ _start_cycle_cpu:
     mov dword [r13 + EXEC], 0
     jmp .fim
 ; (Restante das rotinas .load, .store, .add, .sub, .halt, .jmp, .jz, etc.)
-; Mantém o mesmo corpo original, sem debug syscalls
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ; LOAD (carrega da memória para registrador) + Atualização de FLAGS
