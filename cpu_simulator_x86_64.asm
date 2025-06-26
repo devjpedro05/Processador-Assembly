@@ -2,10 +2,6 @@
 ; Versão corrigida com validações de limites e índices, remoção de debug inseguro
 
 %define PROG_MAX 1024    ; tamanho máximo do programa em bytes
-; Removed problematic constants that exceed 1024-byte buffer:
-; %define MEM128    0x5000
-; %define CONST128  0x6000
-; %define TMP128    0x7000
 
 ; ──────────── constantes de “código de base” ────────────
 %define BASE_R8   0
